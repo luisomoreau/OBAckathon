@@ -1,25 +1,13 @@
-<div zf-panel position="left" id="sub-nav" class="fast bounceInOut medium-2 medium-grid-block vertical">
-	<div class="grid-content">
-		<ul class="icon-left vertical menu-bar">
-		  <li><a href="#"><img zf-iconic="" data-src="/assets/img/iconic/ban.svg"> Les bons plans</a></li>
-		  <li><a href="around_me.html"><img zf-iconic="" data-src="/assets/img/iconic/ban.svg"> Autour de moi</a></li>
-		  <li><a href="#"><img zf-iconic="" data-src="/assets/img/iconic/ban.svg"> Mon profil</a></li>
-          <li><a href="#"><img zf-iconic="" data-src="/assets/img/iconic/ban.svg"> Communauté</a></li>
-		</ul>
-	</div>
-    <ul class="icon-left vertical menu-bar">
-        <li><a href="#"><img zf-iconic="" data-src="/assets/img/iconic/ban.svg"> Déconnexion</a></li>
-	</ul>
-</div>
+<?php @include("fixed_layouts.php"); ?>
 
 <div class="small-12 medium-8 messages grid-content">
 	<div class="grid-container">
-		<img src="/assets/img/offre_premium.jpg"><br /><br />
+		<img src="/assets-utilisateur/img/offre_premium.jpg"><br /><br />
 		<div class=" grid-block small-up-2 medium-up-2 large-up-3">
 			<!-- Start Albums -->
 		  <div class="grid-content">
 		    <div class="card">
-		      <img src="/assets/img/promo_1.jpg" />
+		      <img src="/assets-utilisateur/img/promo_1.jpg" />
 		      <div class="card-divider">
 		        32.00€
 		      </div>
@@ -32,7 +20,7 @@
 
             <div class="grid-content">
                 <div class="card">
-                    <img src="/assets/img/promo_1.jpg" />
+                    <img src="/assets-utilisateur/img/promo_1.jpg" />
                     <div class="card-divider">
                         32.00€
                     </div>
@@ -45,7 +33,7 @@
 
             <div class="grid-content">
                 <div class="card">
-                    <img src="/assets/img/promo_1.jpg" />
+                    <img src="/assets-utilisateur/img/promo_1.jpg" />
                     <div class="card-divider">
                         32.00€
                     </div>
@@ -58,7 +46,7 @@
 
             <div class="grid-content">
                 <div class="card">
-                    <img src="/assets/img/promo_1.jpg" />
+                    <img src="/assets-utilisateur/img/promo_1.jpg" />
                     <div class="card-divider">
                         32.00€
                     </div>
@@ -71,7 +59,7 @@
 
             <div class="grid-content">
                 <div class="card">
-                    <img src="/assets/img/promo_1.jpg" />
+                    <img src="/assets-utilisateur/img/promo_1.jpg" />
                     <div class="card-divider">
                         32.00€
                     </div>
@@ -84,7 +72,7 @@
 
             <div class="grid-content">
                 <div class="card">
-                    <img src="/assets/img/promo_1.jpg" />
+                    <img src="/assets-utilisateur/img/promo_1.jpg" />
                     <div class="card-divider">
                         32.00€
                     </div>

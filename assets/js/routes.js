@@ -1,1 +1,0 @@
-var foundationRoutes = [{"name":"settings","url":"/settings","animationIn":"fadeIn","animationOut":"fadeOut","path":"utilisateur_templates/settings.html"},{"name":"home","url":"/","animationIn":"fadeIn","animationOut":"fadeOut","path":"utilisateur_templates/home.html"}];

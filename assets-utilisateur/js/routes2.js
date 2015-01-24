@@ -1,0 +1,1 @@
+var foundationRoutes = [{"name":"settings","url":"/settings","animationIn":"fadeIn","animationOut":"fadeOut","path":"global/settings.php"},{"name":"home","url":"/","animationIn":"fadeIn","animationOut":"fadeOut","path":"vendeur_templates/home.php"}];

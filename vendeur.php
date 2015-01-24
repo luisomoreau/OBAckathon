@@ -4,10 +4,10 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <title>OBAckathon</title>
-    <link href="assets/css/app.css" rel="stylesheet" type="text/css">
-    <script src="assets/js/app.js"></script>
-    <script src="assets/js/routes.js"></script>
-    <script src="assets/js/angular.js"></script>
+    <link href="assets-utilisateur/css/app.css" rel="stylesheet" type="text/css">
+    <script src="assets-utilisateur/js/app.js"></script>
+    <script src="assets-utilisateur/js/routes2.js"></script>
+    <script src="assets-utilisateur/js/angular.js"></script>
   </head>
 
   <style>
